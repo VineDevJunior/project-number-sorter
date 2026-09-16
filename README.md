@@ -51,7 +51,7 @@ Since this project relies strictly on native browser execution, you don't need `
 
 ### 1. Clone the repository
 ```bash
-$ git clone [https://github.com/VineDevJunior/dev-sorteio.git](https://github.com/VineDevJunior/dev-sorteio.git)
+$ git clone [https://github.com/VineDevJunior/project-number-sorter.git](https://github.com/VineDevJunior/project-number-sorter.git)
 ```
 
 2. Open the project
