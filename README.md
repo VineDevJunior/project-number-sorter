@@ -18,7 +18,9 @@ Whether you need to draw a giveaway winner, pick a random number for a game, or 
 ## 📸 Preview
 
 <p align="center">
-  <img src="./assets/preview.png" alt="DevSorteio Interface Preview" width="600px"/>
+<img width="1919" height="947" alt="Screenshot 2026-09-16 120211" src="https://github.com/user-attachments/assets/79a95123-0305-4ab1-ab36-09b90e770c08" />
+<img width="693" height="948" alt="Screenshot 2026-09-16 120219" src="https://github.com/user-attachments/assets/5e1abeb2-60c4-48bd-9219-4099933f5ebb" />
+
 </p>
 
 ---
