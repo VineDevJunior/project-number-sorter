@@ -59,7 +59,6 @@ Navigate into the project folder and open index.html in your web browser:
 ```bash
 $ cd project-number-sorter
 ```
-Tip: If you use VS Code, you can open index.html using the Live Server extension.
 
 ## 🐛 Issues
 
